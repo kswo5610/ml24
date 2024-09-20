@@ -5,6 +5,6 @@ Machine Learning 2024 / Spezialwoche
 
 | Time/Day   | Monday       | Tuesday      | Wednesday    | Thursday     | Friday       |
 |------------|--------------|--------------|--------------|--------------|--------------|
-| Morning    | Session 1     | Session 1     | Session 1     | Session 1     | Session 1     |
-| Afternoon  | Session 2     | Session 2     | Session 2     | Session 2     | Session 2     |
+| Morning    | Kap 1       | Session 1     | Session 1     | Session 1     | Session 1     |
+| Afternoon  | Kap 2-7     | Session 2     | Session 2     | Session 2     | Session 2     |
 
